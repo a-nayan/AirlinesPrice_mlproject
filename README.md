@@ -12,7 +12,10 @@ Steps performed
 	- Creation of additional features from existing features
 	- Ensure data integrity
 3) Exploratory data analysis
-	- Plot different graphs to establish relationship between Flight price and Flight duration 
+	- Determine if Total flight duration impacts flight price. Plot different graphs to establish relationship between Flight price and Flight duration
+	- Determine When will most of the flights take off? 
+	- On Which Route Jet Airways is mostly used ?
+	- Airline Vs Price Analysis. Create box plot for Airline and Price to establish their relation
 4) Feature Engineering
 	- Feature Encoding - use One hot Encoding, Label Encoding and Target guided Encoding
  	- Outlier Detection and handling- use histogram/box plot to detect outlier if any
